@@ -10,5 +10,11 @@ deviation formula<br/>
 ![image](https://github.com/user-attachments/assets/48724c68-3eab-455b-8e69-3c7773ed3629)<br/><br/>
 deployed server on render<br/>
 ![image](https://github.com/user-attachments/assets/ea6108a5-42c2-4f02-be02-4128e7755da7)
+<br/>
+<br/>
+deployed link
+<br/>
+![image](https://github.com/user-attachments/assets/7e8b9e4f-e501-48b6-ace7-772d97cc2432)
+
 
 
