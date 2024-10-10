@@ -5,3 +5,10 @@ The Demo of coingecko api is<br/>
 <br/>
 Deployed database on mongodb<br/>
 ![image](https://github.com/user-attachments/assets/3d1dcda8-114b-43f1-a080-577c817a8d17)
+<br/>
+deviation formula<br/>
+![image](https://github.com/user-attachments/assets/48724c68-3eab-455b-8e69-3c7773ed3629)<br/><br/>
+deployed server on render<br/>
+![image](https://github.com/user-attachments/assets/ea6108a5-42c2-4f02-be02-4128e7755da7)
+
+
