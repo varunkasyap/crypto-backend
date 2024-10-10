@@ -15,6 +15,13 @@ deployed server on render<br/>
 <br/>
 <br/>
 deployed link
+https://crypto-backend-i858.onrender.com<br/>
+https://crypto-backend-i858.onrender.com/stats?coin=bitcoin<br/>
+https://crypto-backend-i858.onrender.com/stats?coin=ethereum<br/>
+https://crypto-backend-i858.onrender.com/stats?coin=matic-network
+https://crypto-backend-i858.onrender.com/deviation?coin=bitcoin<br/>
+https://crypto-backend-i858.onrender.com/deviation?coin=ethereum<br/>
+https://crypto-backend-i858.onrender.com/deviation?coin=matic-network<br/>
 <br/>
 ![image](https://github.com/user-attachments/assets/7e8b9e4f-e501-48b6-ace7-772d97cc2432)
 
