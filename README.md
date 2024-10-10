@@ -18,7 +18,7 @@ deployed link
 https://crypto-backend-i858.onrender.com<br/>
 https://crypto-backend-i858.onrender.com/stats?coin=bitcoin<br/>
 https://crypto-backend-i858.onrender.com/stats?coin=ethereum<br/>
-https://crypto-backend-i858.onrender.com/stats?coin=matic-network
+https://crypto-backend-i858.onrender.com/stats?coin=matic-network<br/>
 https://crypto-backend-i858.onrender.com/deviation?coin=bitcoin<br/>
 https://crypto-backend-i858.onrender.com/deviation?coin=ethereum<br/>
 https://crypto-backend-i858.onrender.com/deviation?coin=matic-network<br/>
